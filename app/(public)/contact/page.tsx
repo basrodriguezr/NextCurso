@@ -10,5 +10,5 @@ export default function ContactPage(){
         <>
            <span className="text-5xl">Contact Page</span> 
         </>
-    )
-}
+    );
+};
